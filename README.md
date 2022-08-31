@@ -1,1 +1,2 @@
-# cloud-performance
+# Cloud-performance
+Joao Marcos Stefani
